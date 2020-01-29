@@ -1,0 +1,5 @@
+#include<strdio.h>
+int main()
+{
+  printf(“so,what can I do for me”）；
+}
